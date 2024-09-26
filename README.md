@@ -1,2 +1,2 @@
 # Tarea6
-Maquetación
+Maquetación MEDIA QUERIES Y FLEXBOX
