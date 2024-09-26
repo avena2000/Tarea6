@@ -15,7 +15,12 @@ header p {
     font-size: xx-large;
     text-align: center;
 }
-
+div {
+    transition: all 1s;
+}
+p {
+    transition: all 1s;
+}
 .articulos {
     margin: auto;
     max-width: 1250px;
