@@ -1,0 +1,21 @@
+@media screen and (max-width: 480px) {
+    .articulos {
+        gap: 75px;
+        margin-bottom: 70px;
+    }
+    .entradasflex {
+        display: none;
+    }
+    .etiqueta {
+        top: calc(100% + 20px);
+    }
+    .fecha {
+        top: calc(100% + 10px);
+    }
+    .descripcion {
+        padding-top: 50px;
+    }
+    .leer-mas {
+        margin: 0 0 0 0;
+    }
+}
